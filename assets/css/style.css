@@ -1,0 +1,8 @@
+body {
+    background-color: aliceblue;
+}
+
+.bg-black {
+    background-color: rgb(145, 130, 130);
+    height: 200px;
+}
